@@ -1,9 +1,11 @@
-# Boilerplate for web application
+# Boilerplate for web application with
 
-- webpack
-- babel
-- css/scss
-- fonts
-- images
-- eslint
-- prettier
+1. webpack
+2. babel
+3. css/scss
+4. fonts
+5. images
+6. eslint
+7. prettier
+8. stylelint
+9. husky / lint-stage
